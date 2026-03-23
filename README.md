@@ -166,6 +166,7 @@ All resources are freely available except those with a 💲 icon.
 
 ## Books
 
+* [Topology (second edition)](https://eclass.uoa.gr/modules/document/file.php/MATH707/James%20R.%20Munkres%20Topology%20%20Prentice%20Hall%2C%20Incorporated%2C%202000%20by%20James%20R.%20Munkres%20(z-lib.org).pdf) - James R. Munkres
 * [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania)
 * [Multivariable Calculus](http://people.math.gatech.edu/%7Ecain/notes/calculus.html) - G. Cain, J. Herod (Georgia Tech)
